@@ -21,3 +21,4 @@ Fix bug in feature X
 Optimize loop
 Update dependencies
 Update configuration
+Improve error handling
